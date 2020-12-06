@@ -1,0 +1,13 @@
+import random
+subject_phrases = [" that it is extremely apparent,"," that this thing,"," is without a doubt,"," of which is being spoken of,"," the clear topic of discussion,",""]
+predicate_phrases = [" not any other thing,"," of which we are speaking of,"," is without dispute,"]
+
+print("What is your subject?")
+subject = input("The ")
+print("What is your predicate?")
+predicate = input("is ")
+print("It is so," + subject + " is " + predicate + ".")
+
+def create_sentence():
+    
+print(create_sentence())
