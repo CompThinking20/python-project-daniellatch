@@ -1,1 +1,4 @@
 I'm assuming this is a submission for milestone 1 and not 2 since it's not stated otherwise. First thing to do is to make sure your file name is properly named with a .py ending, so it can be run. As far as pulling randomly from a list, I gave a tutorial on that using pop. If you still need help with that after revisiting the lecture, let me know. I'll say I'm not totally sure at this point what the project is supposed to do, so I'd advise you to get in touch so we can discuss it.
+
+MILESTONE 2 COMMENTS
+You've got a working text generator here, which is great. For the final phase of the project, I'd recommend you focus on increasing its variety a bit, seeing if you can get some other sentence structures in there. But this is on track for its current phase.
